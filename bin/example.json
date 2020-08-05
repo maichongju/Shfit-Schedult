@@ -1,0 +1,50 @@
+[
+  {
+    "employee": "Jerry",
+    "week": [
+      {
+        "day": "Mon",
+        "shift": [
+          {
+            "employee": "Jerry",
+            "startTime": "12:00",
+            "endTime": "13:00"
+          },
+          {
+            "employee": "Jerry",
+            "startTime": "14:00",
+            "endTime": "15:00"
+          }
+        ]
+      },
+      {
+        "day": "Tue",
+        "shift": []
+      }
+    ]
+  },
+  {
+    "employee": "Tom",
+    "week": [
+      {
+        "day": "Wed",
+        "shift": [
+          {
+            "employee": "Jerry",
+            "startTime": "12:00",
+            "endTime": "13:00"
+          },
+          {
+            "employee": "Jerry",
+            "startTime": "14:00",
+            "endTime": "15:00"
+          }
+        ]
+      },
+      {
+        "day": "Fri",
+        "shift": []
+      }
+    ]
+  }
+]
